@@ -49,3 +49,30 @@ body::before {
     background: linear-gradient(120deg, #001f3f, #050816);
     z-index: -1;
 }
+nav {
+    margin-bottom: 40px;
+    font-size: 18px;
+}
+
+nav a {
+    color: #00eaff;
+    text-decoration: none;
+    margin: 10px;
+    text-shadow: 0 0 10px #00eaff;
+}
+
+nav a:hover {
+    color: white;
+    text-shadow: 0 0 20px #ffffff;
+}
+
+pre {
+    background: #111827;
+    border: 1px solid #00eaff;
+    padding: 20px;
+    border-radius: 15px;
+    width: fit-content;
+    margin: 20px auto;
+    box-shadow: 0 0 20px #00eaff;
+    color: #a5f3fc;
+}
