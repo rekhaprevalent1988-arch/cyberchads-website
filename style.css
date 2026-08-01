@@ -76,3 +76,12 @@ pre {
     box-shadow: 0 0 20px #00eaff;
     color: #a5f3fc;
 }
+ul {
+    text-align: left;
+    margin: 25px auto;
+}
+
+pre {
+    text-align: left;
+    white-space: pre-wrap;
+}
